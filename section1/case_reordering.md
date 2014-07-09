@@ -1,3 +1,4 @@
+## Re-ordering tabulated values
  colleague sent me a CSV file, formatted as a rectangular array:
 
 |       | Y 1 | Y 2 | ... | Y 180 |

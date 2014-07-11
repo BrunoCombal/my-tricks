@@ -13,14 +13,15 @@ Basic commands for processing text-based data sets are:
 * awk: write complex programs on formatted text files
 
 
-## Data stream
+## Chaining commands
+
 ### Basic commands
 Basic commands like `more`or `less` let you display the content of a file.
 
 Commands to transform a file into a data stream:
 `cat`, `head` and `tail`
 
-### Pipes: chaining commands
+### Pipes: sending command output to another command
 pipes `|`
 
 ### Loops

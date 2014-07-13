@@ -12,7 +12,6 @@ Basic commands for processing text-based data sets are:
 * cut: extract fields from a text file
 * awk: write complex programs on formatted text files
 
-
 ## Chaining commands
 
 ### Basic commands

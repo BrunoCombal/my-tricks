@@ -14,7 +14,11 @@ I think a good practice is to have a clean, well maintained system on the physic
 
 ## Sharing directories
 
-## Learning Linux and bash
-Don't fear the beast!
+## Some key concepts about linux shell
+In first place, let's remind that bash is not a programming language: that's a shell and bash scripts are a series of shell commands. That's not really a language like python, thought some concepts, such as tests, loops, or functions are available.
+
+For real beginners, have a look in the wikipedia page:
+http://en.wikipedia.org/wiki/Shell_script
+
 
 

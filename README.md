@@ -12,5 +12,5 @@ After some unfructous attempts to write some conventional text, I realised the f
 This book is nothing but a somewhat structure series of tricks plus some usage I tested and bulletproofed. I'm not developping any theory or principle, neither advocating for some technology. I suppose that my reader is a scientist or data expert, sufficiently computer litterate to write some simple data processing code and conscious that all the work can't be done in a single software. Professional software developpers may find my examples rather naive.
 
 
-
+---
 Bruno Combal, PhD
